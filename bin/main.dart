@@ -1,5 +1,5 @@
-import 'package:dart_patterns/dart_patterns.dart' as dart_patterns;
+import 'package:dart_patterns/patterns/creational/abstract_factory/main.dart';
 
 void main(List<String> arguments) {
-  print('Hello world: ${dart_patterns.calculate()}!');
+  mainAbstractFactory();
 }
