@@ -1,10 +1,3 @@
-void clientCode(AbstractFactory factory) {
-  final productA = factory.createProductA();
-  final productB = factory.createProductB();
-  print(productB.usfulFunctionB());
-  print(productB.anotherUsfulFunctionB(productA));
-}
-
 abstract class AbstractFactory {
   AbstractProductA createProductA();
   AbstractProductB createProductB();
