@@ -4,4 +4,4 @@ in `lib/`, and example unit test in `test/`.
 Creational Patterns (Порождающие патерны)
     - Abstract Factory (see method mainAbstractFactory)
     - Builder (see method mainBuilder)
-  - 
+    - Factory Method (see method mainFactoryMethod) 
