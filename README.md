@@ -5,3 +5,6 @@ Creational Patterns (Порождающие патерны)
 - Factory Method (see method mainFactoryMethod) 
 - Prototype (see method mainPrototype)
 - Singleton (see method mainSingleton)
+
+Structural Patterns (Структурные паттерны)
+- Adapter (see method mainAdapter)
