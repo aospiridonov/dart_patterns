@@ -1,10 +1,14 @@
 
-Creational Patterns (Порождающие патерны)
-- Abstract Factory (see method mainAbstractFactory)
-- Builder (see method mainBuilder)
-- Factory Method (see method mainFactoryMethod) 
-- Prototype (see method mainPrototype)
-- Singleton (see method mainSingleton)
+# Patterns
 
-Structural Patterns (Структурные паттерны)
-- Adapter (see method mainAdapter)
+## Creational Patterns [Порождающие патерны]
+- **Abstract Factory** [Абстрактная фабрика] (see method mainAbstractFactory)
+- **Builder** [Строитель] (see method mainBuilder)
+- **Factory Method** [Фабричный метод] (see method mainFactoryMethod) 
+- **Prototype** [Прототип] (see method mainPrototype)
+- **Singleton** [Одиночка] (see method mainSingleton)
+
+## Structural Patterns (Структурные паттерны)
+- **Adapter** [Адаптер] (see method mainAdapter)
+- **Bridge** [Мост] (see method mainBridge)
+- **Composite** [Компоновщик] (see method mainComposite)
