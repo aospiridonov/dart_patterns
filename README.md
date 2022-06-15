@@ -15,3 +15,4 @@
 - **Bridge** [Мост] (see method mainBridge)
 - **Composite** [Компоновщик] (see method mainComposite)
 - **Decorator** [Декоратор] (see method mainComposite)
+- **Facade** [Фасад] (see method mainFacade)

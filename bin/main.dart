@@ -7,6 +7,7 @@ import 'package:dart_patterns/patterns/structural/adapter/main.dart';
 import 'package:dart_patterns/patterns/structural/bridge/main.dart';
 import 'package:dart_patterns/patterns/structural/composite/main.dart';
 import 'package:dart_patterns/patterns/structural/decorator/main.dart';
+import 'package:dart_patterns/patterns/structural/facade/main.dart';
 
 void main(List<String> arguments) {
   //Creational Patterns
@@ -18,5 +19,6 @@ void main(List<String> arguments) {
   //mainAdapter();
   //mainBridge();
   //mainComposite();
-  mainDecorator();
+  //mainDecorator();
+  mainFacade();
 }
