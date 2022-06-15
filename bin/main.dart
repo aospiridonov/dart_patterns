@@ -5,6 +5,7 @@ import 'package:dart_patterns/patterns/creational/prototype/main.dart';
 import 'package:dart_patterns/patterns/creational/singleton/main.dart';
 import 'package:dart_patterns/patterns/structural/adapter/main.dart';
 import 'package:dart_patterns/patterns/structural/bridge/main.dart';
+import 'package:dart_patterns/patterns/structural/composite/main.dart';
 
 void main(List<String> arguments) {
   //Creational Patterns
@@ -14,5 +15,6 @@ void main(List<String> arguments) {
   //mainPrototype();
   //mainSingleton();
   //mainAdapter();
-  mainBridge();
+  //mainBridge();
+  mainComposite();
 }
