@@ -16,3 +16,4 @@
 - **Composite** [Компоновщик] (see method mainComposite)
 - **Decorator** [Декоратор] (see method mainComposite)
 - **Facade** [Фасад] (see method mainFacade)
+- **Flyweight** [Легковес] (see method mainFlyweight)
