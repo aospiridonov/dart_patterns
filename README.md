@@ -18,3 +18,7 @@
 - **Facade** [Фасад] (see method mainFacade)
 - **Flyweight** [Легковес] (see method mainFlyweight)
 - **Proxy** [Заместитель] (see method mainProxy)
+
+## Behavioral Patterns (Поведенческие паттерны)
+
+- **Chain of Responsibility** [Цепочка обязанностей] (see method mainChainOfResponsibility)
