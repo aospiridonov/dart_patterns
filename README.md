@@ -24,3 +24,4 @@
 - **Chain of Responsibility** [Цепочка обязанностей] (see method mainChainOfResponsibility)
 - **Command** [Команда] (see method mainCommand)
 - **Iterator** [Итератор] (see method mainIterator)
+- **Mediator** [Посредник] (see method mainMediator)
