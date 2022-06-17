@@ -22,3 +22,4 @@
 ## Behavioral Patterns (Поведенческие паттерны)
 
 - **Chain of Responsibility** [Цепочка обязанностей] (see method mainChainOfResponsibility)
+- **Command** [Команда] (see method mainCommand)
