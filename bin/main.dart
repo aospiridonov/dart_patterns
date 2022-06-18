@@ -2,6 +2,7 @@ import 'package:dart_patterns/patterns/behavioral/chain_of_responsibility/main.d
 import 'package:dart_patterns/patterns/behavioral/command/main.dart';
 import 'package:dart_patterns/patterns/behavioral/iterator/main.dart';
 import 'package:dart_patterns/patterns/behavioral/mediator/main.dart';
+import 'package:dart_patterns/patterns/behavioral/memento/main.dart';
 import 'package:dart_patterns/patterns/creational/abstract_factory/main.dart';
 import 'package:dart_patterns/patterns/creational/builder/main.dart';
 import 'package:dart_patterns/patterns/creational/factory_method/main.dart';
@@ -32,5 +33,6 @@ void main(List<String> arguments) {
   //mainChainOfResponsibility();
   //mainCommand();
   //mainIterator();
-  mainMediator();
+  //mainMediator();
+  mainMemento();
 }
