@@ -25,4 +25,5 @@
 - **Command** [Команда] (see method mainCommand)
 - **Iterator** [Итератор] (see method mainIterator)
 - **Mediator** [Посредник] (see method mainMediator)
-- **Memento** [Снимок](see method mainMemento)
+- **Memento** [Снимок] (see method mainMemento)
+- **Observer** [Наблюдатель] (see method mainObserver)
