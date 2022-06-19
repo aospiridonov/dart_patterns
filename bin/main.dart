@@ -6,6 +6,7 @@ import 'package:dart_patterns/patterns/behavioral/memento/main.dart';
 import 'package:dart_patterns/patterns/behavioral/observer/main.dart';
 import 'package:dart_patterns/patterns/behavioral/state/main.dart';
 import 'package:dart_patterns/patterns/behavioral/strategy/main.dart';
+import 'package:dart_patterns/patterns/behavioral/template_method/main.dart';
 import 'package:dart_patterns/patterns/creational/abstract_factory/main.dart';
 import 'package:dart_patterns/patterns/creational/builder/main.dart';
 import 'package:dart_patterns/patterns/creational/factory_method/main.dart';
@@ -39,6 +40,7 @@ void main(List<String> arguments) {
   //mainMediator();
   //mainMemento();
   //mainObserver();
-  mainState();
-  mainStrategy();
+  //mainState();
+  //mainStrategy();
+  mainTemplateMethod();
 }
