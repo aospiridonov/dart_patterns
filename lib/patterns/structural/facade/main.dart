@@ -1,7 +1,7 @@
-import 'package:dart_patterns/patterns/structural/facade/facade.dart';
+import 'facade.dart';
 
 void clientCode({required Facade facade}) {
-  print('${facade.operation()}');
+  print(facade.operation());
 }
 
 void mainFacade() {

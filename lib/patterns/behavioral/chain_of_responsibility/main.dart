@@ -1,4 +1,4 @@
-import 'package:dart_patterns/patterns/behavioral/chain_of_responsibility/chain_of_responsibility.dart';
+import 'chain_of_responsibility.dart';
 
 void clientCode({required Handler handler}) {
   const foods = ['Nut', 'Banana', 'Cup of coffee'];

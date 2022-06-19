@@ -1,4 +1,4 @@
-import 'package:dart_patterns/patterns/structural/adapter/adapter.dart';
+import 'adapter.dart';
 
 void clientCode({required Target target}) {
   print(target.request());

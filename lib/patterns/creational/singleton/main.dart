@@ -1,4 +1,4 @@
-import 'package:dart_patterns/patterns/creational/singleton/singleton.dart';
+import 'singleton.dart';
 
 void clientCode() {
   final s1 = Singleton();

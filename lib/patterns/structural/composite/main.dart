@@ -1,4 +1,4 @@
-import 'package:dart_patterns/patterns/structural/composite/composite.dart';
+import 'composite.dart';
 
 void clientCode({required Component component}) {
   print('Result: ${component.operation()}');

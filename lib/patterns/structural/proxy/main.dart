@@ -1,4 +1,4 @@
-import 'package:dart_patterns/patterns/structural/proxy/proxy.dart';
+import 'proxy.dart';
 
 void clientCode({required Subject subject}) {
   subject.request();

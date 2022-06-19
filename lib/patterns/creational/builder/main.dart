@@ -1,4 +1,4 @@
-import 'package:dart_patterns/patterns/creational/builder/builder.dart';
+import 'builder.dart';
 
 void clientCode({required Director director}) {
   final builder = ConcreteBuilder1();

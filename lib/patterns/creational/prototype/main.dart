@@ -1,4 +1,4 @@
-import 'package:dart_patterns/patterns/creational/prototype/prototype.dart';
+import 'prototype.dart';
 
 void clientCode<T>({required Prototype<T> product}) {
   final cloneProduct = product.clone();

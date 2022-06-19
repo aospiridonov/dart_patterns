@@ -1,4 +1,4 @@
-import 'package:dart_patterns/patterns/structural/flyweight/flyweight.dart';
+import 'flyweight.dart';
 
 void addCarToPoliceDatabase({
   required FlyweightFactory factory,

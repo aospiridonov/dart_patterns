@@ -1,4 +1,4 @@
-import 'package:dart_patterns/patterns/creational/factory_method/factory_method.dart';
+import 'factory_method.dart';
 
 void clientCode({required Creator creator}) {
   print('Client: I\'m not aware of the creator\'s class, but it still works.');

@@ -1,4 +1,4 @@
-import 'package:dart_patterns/patterns/structural/bridge/bridge.dart';
+import 'bridge.dart';
 
 void clientCode({required Abstraction abstraction}) {
   print(abstraction.operation());

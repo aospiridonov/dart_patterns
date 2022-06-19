@@ -1,4 +1,4 @@
-import 'package:dart_patterns/patterns/creational/abstract_factory/abstract_factory.dart';
+import 'abstract_factory.dart';
 
 void clientCode({required AbstractFactory factory}) {
   final productA = factory.createProductA();

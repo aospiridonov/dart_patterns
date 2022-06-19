@@ -1,4 +1,4 @@
-import 'package:dart_patterns/patterns/structural/decorator/decorator.dart';
+import 'decorator.dart';
 
 void clientCode({required Component component}) {
   print('Result: ${component.operation()}');
