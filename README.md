@@ -30,4 +30,4 @@
 - **State** [Состояние] (see method mainState)
 - **Strategy** [Стратегия] (see method mainStrategy)
 - **Template Method** [Шаблонный метод](see method mainTemplateMethod)
-
+- **Visitor** [Посетитель] (see method mainVisitor)
