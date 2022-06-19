@@ -28,3 +28,4 @@
 - **Memento** [Снимок] (see method mainMemento)
 - **Observer** [Наблюдатель] (see method mainObserver)
 - **State** [Состояние] (see method mainState)
+- **Strategy** [Стратегия] (see method mainStrategy)
